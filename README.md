@@ -50,4 +50,5 @@ This project is under the MIT license. See the [LICENSE] file (LICENSE.md) for m
 
 ---
 
-<p align="center">Developed with 💜 by Juliano Machado</p>
+<p align="center">Developed with 💜 by Juliano Machado.</p>
+<p align="center">Credits: 💜 Mykão e Guilherme 💜</p>
