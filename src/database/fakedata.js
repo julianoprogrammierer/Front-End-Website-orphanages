@@ -28,3 +28,5 @@ module.exports = [
         open_on_weekends: "0"
     },
 ]
+
+//end
