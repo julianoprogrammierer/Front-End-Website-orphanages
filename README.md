@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="#rocket-tecnologias">technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
   <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">license</a>
@@ -20,13 +20,6 @@
   <img alt="Happy" src=".github/happy.png" width="100%">
 </p>
 
-## 🚀 Technologies
-
-This project was developed using the following technologies:
-
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
-- [SQLite](https://www.sqlite.org/index.html)
 
 ## 💻 Project
 
